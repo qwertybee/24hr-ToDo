@@ -1,16 +1,6 @@
-# project_1
+# Baby Step Application
+A mobile application that tracks your 24-hour to-do list that emphasizes on helping user focus and complete tasks with 24 hours in mind
 
-Mobile App Project 1
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+- Create a to-do list that each lasts 24-hours
+- Weekly overview of your current progress
