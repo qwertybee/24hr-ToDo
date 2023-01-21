@@ -1,4 +1,4 @@
-# Baby Step Application
+# Mobile Project 1
 A mobile application that tracks your 24-hour to-do list that emphasizes on helping user focus and complete tasks with 24 hours in mind
 
 ## Features
